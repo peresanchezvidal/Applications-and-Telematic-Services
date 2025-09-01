@@ -1,7 +1,7 @@
-# Applications & Telematic Services — Laboratory Practices (README)
+# Transport Protocols & Telematics — Java Implementation
 
 ## Description
-This repository holds the laboratory practice code and minimal tests for the course *Applications and Telematics Services*.  
+This repository contains Java code and minimal tests implementing transport-layer mechanisms such as queues, simulated networks, fragmentation, ARQ, multiplexing, sliding windows, connection state machines, and concurrency. 
 Its purpose is to provide clean, instructor-aligned implementations of transport-layer concepts (queues, simulated network, fragmentation, ARQ, multiplexing, sliding windows, connection state machines, concurrency) together with the small test drivers used in the handout so you can reproduce the expected console traces. The code is organized per practice (practica1..practica7). Each practice implements a focused concept and contains: source (`src/`), small test mains (`test/`), and a short `README.md` explaining how to run the provided examples.
 
 ## Contents (detailed)
